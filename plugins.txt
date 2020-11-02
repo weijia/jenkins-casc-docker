@@ -22,3 +22,5 @@ permissive-script-security:0.6
 git-parameter:0.9.12
 email-ext:2.68
 nodelabelparameter:1.7.2
+next-executions:1.0.15
+
