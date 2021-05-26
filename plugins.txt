@@ -19,8 +19,17 @@ timestamper:1.11.3
 workflow-aggregator:2.6
 ansible:1.0
 permissive-script-security:0.6
+
+
 git-parameter:0.9.12
 email-ext:2.68
 nodelabelparameter:1.7.2
 next-executions:1.0.15
+sonar:2.11
+generic-webhook-trigger:1.67
+build-timeout:1.20
+gitlab-plugin:1.5.13
+jobConfigHistory:2.26
+envinject
+artifactory:3.11.0
 
